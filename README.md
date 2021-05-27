@@ -1,16 +1,5 @@
-# pharmacy
+# Pharmacy App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is an online pharmacy stores app
+## About Pharmacy App
+This app is basically made for customers to easily buy all their medicinal requriments just in short span of time.It helps customers easily search for items based on the categories divided and it also helps merchants to sell there products easily.The products can be ordred just in a click which can save a lot of time and be helpful at different stages of living.
