@@ -24,4 +24,4 @@ The App also has a admin portal which helps merchants add their products into a 
 
 <img src=UI_Screenshots/Picture20.png width="30%"> 
 
-This App is built using Flutter and firebase
+### This App is built using Flutter and firebase
